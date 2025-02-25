@@ -40,7 +40,7 @@ export default function Projects() {
 			description:
 				'Developed StickHero game using object-oriented programming principles. Created game screens using SceneBuilder tool. Developed and deployed game mechanics, enhancing stick extension, platform generation, and collision detection efficiency through optimized object-oriented programming techniques. Designed intuitive user interfaces and game controls in JavaFX to increase player engagement.',
 			slideImages: [
-				'/project/download (1).png',
+				// '/project/download (1).png',
 				// '/project/job-seeker/cover.png',
 				// '/project/job-seeker/1.png',
 				// '/project/job-seeker/2.png',
