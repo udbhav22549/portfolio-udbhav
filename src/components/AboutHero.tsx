@@ -18,7 +18,7 @@ export default function AboutHero() {
 				I&apos;m Udbhav Yadav
 			</h1>
 			<p className='font-robotoMono-regular text-start w-full md:text-center leading-6 pt-4 max-w-3xl'>
-			I&apos;m an aspiring Software Development Engineer (SDE) with a strong background in software development, ML/AI, and signal processing. I specialize in designing efficient and scalable applications while leveraging cutting-edge technologies to solve complex challenges. Actively seeking opportunities to contribute as an SDE, I&apos;m committed to learning, growing, and making a difference in the tech world.
+			I&#39;m an aspiring Software Development Engineer (SDE) with a strong background in software development, ML/AI, and signal processing. I specialize in designing efficient and scalable applications while leveraging cutting-edge technologies to solve complex challenges. Actively seeking opportunities to contribute as an SDE, I&#39;m committed to learning, growing, and making a difference in the tech world.
 			</p>
 			<div className='hidden md:flex absolute left-0 bottom-52'>
 				<FlutteringSVG />
