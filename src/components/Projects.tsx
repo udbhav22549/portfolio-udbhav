@@ -29,7 +29,7 @@ export default function Projects() {
 				// '/project/two.png',
 				// '/project/three.png',
 			],
-			stack: ['Python', 'Django', 'Bootstrap'],
+			stack: ['Python', 'Django', 'Bootstrap', 'SQLite','HTML', 'CSS'],
 			viewCodeUrl:
 				'https://github.com/udbhav22549/BlogMan',
 			// viewLiveUrl: 'https://localshopper.example.com',
