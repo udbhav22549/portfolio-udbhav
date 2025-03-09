@@ -19,21 +19,21 @@ export default function Projects() {
 			stack: ['Python', 'Scikit-learn', 'Tensorflow'],
 			// viewLiveUrl: 'https://www.rent80.com',
 		},
-		// {
-		// 	id: 2,
-		// 	title: 'Local Shopper',
-		// 	description:
-		// 		'LocalShopper helps local shop owners reach more customers by allowing them to list and sell their products in one place. Instead of browsing multiple stores, users can easily search for what they need, view store details, and even book items directly. The platform connects businesses with their community, making shopping more convenient while giving small retailers a better way to grow.',
-		// 	slideImages: [
-		// 		'/project/one.png',
-		// 		'/project/two.png',
-		// 		'/project/three.png',
-		// 	],
-		// 	stack: ['Next.js', 'Tailwind', 'Spring Boot', 'PostgreSQL', 'AWS'],
-		// 	viewCodeUrl:
-		// 		'https://github.com/AkshayBenny/local-ecommerce-server',
-		// 	// viewLiveUrl: 'https://localshopper.example.com',
-		// },
+		{
+			id: 2,
+			title: 'BlogMan',
+			description:
+				'A fully functional blog web application built with Django, featuring user authentication, post creation, editing, deleting, and liking functionality. It includes a responsive UI, a rich text editor (TinyMCE), and an intuitive user experience.',
+			slideImages: [
+				// '/project/one.png',
+				// '/project/two.png',
+				// '/project/three.png',
+			],
+			stack: ['Python', 'Django', 'Bootstrap'],
+			viewCodeUrl:
+				'https://github.com/udbhav22549/BlogMan',
+			// viewLiveUrl: 'https://localshopper.example.com',
+		},
 		{
 			id: 3,
 			title: 'StickHero Game',
