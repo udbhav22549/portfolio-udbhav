@@ -27,7 +27,7 @@ export default function Footer() {
 					</li>
 					<li>
 						<a
-							href='https://drive.google.com/file/d/1x85WhB206z-daRWTgqfnw9PHUp36C1vl/view?usp=drive_link'
+							href='https://drive.google.com/file/d/1QxIpqivK-NJLX9qpNJZ5lmRxaOMaFg99/view?usp=drive_link'
 							target='_blank'>
 							Resume
 						</a>
