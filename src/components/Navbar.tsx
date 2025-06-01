@@ -141,7 +141,7 @@ const Navbar: React.FC = () => {
 						</li>
 						<li>
 							<a
-								href='https://drive.google.com/file/d/1QxIpqivK-NJLX9qpNJZ5lmRxaOMaFg99/view?usp=drive_link'
+								href='https://drive.google.com/file/d/1eqfi86gslhyTK-43fb05m7tqDDJkU4dj/view?usp=sharing'
 								target='/blank'>
 								<TransitionLink
 									label='Resume'
